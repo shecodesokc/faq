@@ -1,2 +1,2 @@
 # faq
-Frequently asked questions about the gruop
+Frequently asked questions about the group
