@@ -1,4 +1,5 @@
 # faq
+<<<<<<< HEAD
 - Frequently asked questions about the group
 
 # What is SheCodesOKC?
@@ -7,3 +8,8 @@
 
 # Where can I find more info about SheCodesOKC?
 - You can find more information about the group and any upcoming events [here](https://www.meetup.com/shecodesokc/).
+=======
+Frequently asked questions about the group
+
+Is this group only for experienced users or can it be for anyone who hasn't done coding at all?
+>>>>>>> 8a04861f0f0c730a649c16cae6563f15aa9e3b22
