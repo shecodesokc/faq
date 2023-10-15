@@ -1,5 +1,5 @@
 # faq
-Frequently asked questions about the group
+- Frequently asked questions about the group
 
 # What is SheCodesOKC?
 - SheCodesOKC is a network of female and non-binary technologists who come together each month to learn and support each other. We discuss topics ranging from coding, new libraries, hardware, professional development, and more. We empower women and non-binary individuals and provide outreach for those entering the technology field. We can't wait to meet you!
